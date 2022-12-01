@@ -1,0 +1,10 @@
+1. La requêtes crée une base de donnée nommée "soccer", 
+dans le seul cas ou elle n'existe pas.
+
+USE : détermine la base donnée utilisée.
+
+
+2.La requete crée une table nommée "arenas".
+Elle a pour id : "areanaid" le champs ne peut etre null.
+Dès qu'une valeur est crée, on attribu un int = 1 qui s'incrémente de +1 automatoiquement 
+à chaque nouvelle lignes/ enregistrement effectué dans la Base de donnée. 
